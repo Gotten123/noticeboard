@@ -1,6 +1,6 @@
 body {
 font-family:arial;
- background-color: #D0E3FF;
+ background-color: #D0E4FF;
 }
 
 h1 {
@@ -58,3 +58,4 @@ label { float: right; width: 150px; }
 input[type=text],[type=date] { float: right; width: 250px; }
 .clear { clear: both; height: 0; line-height: 0; }
 .floatright { float: right; }
+
