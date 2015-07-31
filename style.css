@@ -1,0 +1,61 @@
+body {
+font-family:arial;
+background-color: black;
+}
+
+h1 {
+font-size:20px;
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+}
+
+h2 {
+font-size:15px;
+  margin: 0 auto;
+  width: 100%;
+  text-align: center
+}
+
+p{
+padding-bottom:5px;
+}
+#logo {margin: 0 auto; width:300px; }
+#logo img{
+width:300px;
+height:auto;
+margin: 0 auto;
+}
+
+#idlist{
+font-size:100%;
+padding:15px;
+background-color:#C3F0FF;
+}
+
+#noticeblock {
+padding:15px;
+background-color:#FFBD66;
+height:75px;
+font-size:115%;
+}
+
+#noticeblock img {
+max-width:500px;
+}
+
+#image_display  img {
+max-width:400px;
+}
+
+
+.padd{
+padding-left:13px;
+}
+
+form { width: 335px; margin: 0 auto; }
+label { float: right; width: 150px; }
+input[type=text],[type=date] { float: right; width: 250px; }
+.clear { clear: both; height: 0; line-height: 0; }
+.floatright { float: right; }
+
